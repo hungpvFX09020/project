@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shippori Mincho B1', serif;
+    color: white;
+}
+.box {
+    margin: 0;
+    background-color:#333; 
+    padding: 10px;
+}
